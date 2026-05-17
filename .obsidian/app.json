@@ -1,0 +1,9 @@
+{
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "focusNewTab": false,
+  "openBehavior": "file:Contents/Contents",
+  "readableLineLength": true,
+  "rightToLeft": false,
+  "defaultViewMode": "preview"
+}

@@ -1,0 +1,16 @@
+- [x] Finish CronTab
+- [x] Finish Initial Disk
+- [x] Learn rhel 10 case while adding new adapter (lesson 12.1)
+- [x] Finish Full Disk
+- [x] growpart
+- [x] fstab syntax (lesson 12 from minute 43 - 51) + find mnt
+- [x] swap (lesson 13 from minute 1:13) 
+- [x] Complete stratis task (Daha sonra yeni device (disk) əlavə edib yaratdığınız pool-a əlavə edin)
+- [x] Single-user-mod.target and rescue.target. Difference?
+- [x] ls /usr/sbin | grep "init"
+- [x] root reset in rhel 8 and difference between it and rhel 9 version
+- [x] Kernel and initramfs
+- [x] https://dev.to/dhavalthakar97/linux-in-action-resetting-the-root-password-on-rhel-10-28j2
+- [ ] curl
+- [ ] echo "PASSWORD" | passwd --stdin <USER_NAME>
+- [ ] 

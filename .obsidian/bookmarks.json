@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1765305715910,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1765305715910,
+          "path": "a.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1765305715910,
+          "path": "b.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1765305715910,
+          "path": "g.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1765305715910,
+          "path": "z.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1765305715910,
+          "path": "Untitled.base",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1765305715910,
+          "path": "Contents.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
