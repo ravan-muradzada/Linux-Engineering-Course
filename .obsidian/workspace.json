@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/1. RHCSA Contents/25. Container/01. Introduction to Containers.md",
+                "file": "Contents/Contents.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Introduction to Containers"
+              "title": "Contents"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Contents/1. RHCSA Contents/1. RHCSA Contents.md",
     "Contents/Contents.md",
+    "Contents/1. RHCSA Contents/1. RHCSA Contents.md",
     "Contents/1. RHCSA Contents/Exam Practise.md",
     "PDFs/Advanced Linux course syllabus.pdf",
     "PDFs/RHCSA Mock - 2.pdf",
