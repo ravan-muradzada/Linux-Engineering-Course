@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/1. RHCSA Contents/1. RHCSA Contents.md",
+                "file": "Contents/Contents.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. RHCSA Contents"
+              "title": "Contents"
             }
           }
         ]
