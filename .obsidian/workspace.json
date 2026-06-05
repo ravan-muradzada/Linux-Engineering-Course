@@ -63,18 +63,15 @@
             "id": "468e8c95c92c7504",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Contents/1. RHCSA Contents/15. Boot Process/01. Introduction to Boot Process in Linux.md",
-                "mode": "preview",
-                "source": false
+                "file": "PDFs/RHCSA Mock - 1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "01. Introduction to Boot Process in Linux"
+              "icon": "lucide-file-text",
+              "title": "RHCSA Mock - 1"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5681b416ee16bff0",
@@ -222,8 +220,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "468e8c95c92c7504",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "PDFs/RHCSA Mock - 1.pdf",
+    "Contents/1. RHCSA Contents/15. Boot Process/01. Introduction to Boot Process in Linux.md",
     "Contents/1. RHCSA Contents/1. RHCSA Contents.md",
     "Contents/Contents.md",
     "Contents/1. RHCSA Contents/03. User and Group Management/04. User Default Settings.md",
@@ -238,7 +238,6 @@
     "Contents/1. RHCSA Contents/02. Environment variables and Redirections/05. PATH variable.md",
     "PDFs/RHCSA Mock - 3.pdf",
     "PDFs/RHCSA Mock - 2.pdf",
-    "PDFs/RHCSA Mock - 1.pdf",
     "PDFs/Find examples.docx.pdf",
     "Contents/1. RHCSA Contents/22. NFS, Samba, AutoFs/01. NFS.md",
     "Contents/1. RHCSA Contents/22. NFS, Samba, AutoFs/02. Samba.md",
@@ -255,8 +254,6 @@
     "Contents/1. RHCSA Contents/01. Basics/11. Vi - Text Editor.md",
     "Contents/1. RHCSA Contents/01. Basics/12. Control Operators.md",
     "Contents/2. Advanced Linux Contents/2. Advanced Linux Contents.md",
-    "Contents/1. RHCSA Contents/01. Basics/13. Archiving and Compressing.md",
-    "Contents/3. DevOps Contents/3. DevOps Contents.md",
     "Contents/1. RHCSA Contents/26. niqus memmedov",
     "Contents/3. DevOps Contents",
     "Contents/2. Advanced Linux Contents",
