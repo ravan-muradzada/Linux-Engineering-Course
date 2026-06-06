@@ -1,5 +1,0 @@
-- [x] Targets like init 6
-- [x] Thin previsioning
-- [x] Red hat mock tasks
-- [ ] virtual host
-- [ ] ftp for packages and repos

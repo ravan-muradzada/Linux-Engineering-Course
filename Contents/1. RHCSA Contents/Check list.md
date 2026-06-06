@@ -11,6 +11,6 @@
 - [x] root reset in rhel 8 and difference between it and rhel 9 version
 - [x] Kernel and initramfs
 - [x] https://dev.to/dhavalthakar97/linux-in-action-resetting-the-root-password-on-rhel-10-28j2
-- [ ] curl
-- [ ] echo "PASSWORD" | passwd --stdin <USER_NAME>
+- [x] curl
+- [x] echo "PASSWORD" | passwd --stdin <USER_NAME>
 - [ ] 

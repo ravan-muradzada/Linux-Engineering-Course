@@ -1,7 +1,0 @@
-- [ ] find command + exec part
-- [ ] grep
-- [x] 22.3 (autofs)
-- [x] 23 (tuned)
-- [x] 24 (flatpak)
-- [x] 25 (container)
-- [ ] mock1: 3; 6; 7 (server classrom?); 8; 13; Extra Q1; Extra Q3;
